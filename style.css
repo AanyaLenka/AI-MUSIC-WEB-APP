@@ -1,0 +1,45 @@
+#dj1
+{
+width:200px;
+}
+
+#dj2
+{
+width: 200px;
+float:right;
+}
+
+.mainbutton
+{
+width:150px;
+font-size:20px;
+background-color: red;
+}
+
+body
+{
+background-image:url('b2.jpg');
+background-size: cover;
+background-position: center;
+}
+
+#mainnew
+{
+    font-family: cursive; 
+    background-color:orange; 
+    color: whitesmoke;
+}
+
+#note
+{
+    font-family: monospace;
+     color:black;
+      font-size: 75%;
+}
+
+canvas 
+{
+border:3px solid lightcoral;
+border-radius:20px;
+margin-top: 200px;
+}
